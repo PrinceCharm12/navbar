@@ -34,17 +34,22 @@
 }
 
 .div-date {
-    margin-top: 20px;
+    margin-top: 15px;
     width: 6rem;
-    border-radius: 30px;
+    border-radius: 15px;
     background-color: #F5F5F5;
-    height: 30px;
+    height: 40px;
+    justify-content: space-between;
+
 }
 
-svg {
-    width: 2rem; 
-    height: 23px;
 
+
+#calendar {
+    margin-top: 5px;
+    width: 2rem;
+    height: 25px;
+    
 }
 
 
